@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class NikeshBabu:
@@ -147,9 +147,9 @@ print(me.motto())
 | Project | Stack | Highlights |
 |:---|:---|:---|
 | [🫀 ECG Machine with AI Emotion Detection](https://github.com/Nikesh-dev-06) | `ESP32` `Python` `Edge AI` `Embedded C` | Real-time physiological signal analysis with AI-based emotion & stress pattern detection; hardware-software pipeline for preventive healthcare research |
-| [📚 Student Information System](https://github.com/Nikesh-dev-06) | `React.js` `Node.js` `MySQL` `REST APIs` | Full-stack web app with complete CRUD operations, normalized schema for data integrity, and fast query performance across student records & attendance |
-| [🛡️ Phishing URL Detection Browser Extension](https://github.com/Nikesh-dev-06) | `JavaScript` `Python` `ML` `Heuristics` | **1st Prize Winner @ CSI KEC** — Lightweight, cross-browser extension with real-time heuristic + pattern-based malicious URL detection and instant threat alerts |
-| [📋 Insurance Policy & Claims Management](https://github.com/Nikesh-dev-06) | `React.js` `Node.js` `MySQL` | Full-stack platform for policy lifecycle management with role-based access control for secure multi-user operation across admin and agent roles |
+| [📚 Student Information System](https://github.com/Nikesh-dev-06) | `PHP` `CSS` `MySQL` `XAMPP` | Full-stack web app with normalized schema for data integrity, and fast query performance across student records & attendance |
+| [🛡️ Phishing URL Detection Browser Extension](https://github.com/Nikesh-dev-06) | `JavaScript` `Python` `ML`  | **1st Prize Winner @ CSI KEC** — Lightweight, cross-browser extension with real-time heuristic + pattern-based malicious URL detection and instant threat alerts |
+| [📋 Insurance Policy & Claims Management](https://github.com/Nikesh-dev-06) | `React.js` `Node.js` `MongoDB` | Full-stack platform for policy lifecycle management with role-based access control for secure multi-user operation across admin and agent roles |
 
 </div>
 
