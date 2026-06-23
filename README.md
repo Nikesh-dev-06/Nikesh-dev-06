@@ -40,8 +40,6 @@ class NikeshBabu:
             "Full Stack → Advanced React, API design"
         ]
 
-        self.fun_fact = "I built an ECG Machine with AI Emotion Detection 🫀🤖"
-
     def motto(self):
         return "Build intelligent technologies that solve real-world problems."
 
